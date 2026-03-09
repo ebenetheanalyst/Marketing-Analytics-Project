@@ -1,4 +1,18 @@
-<img width="3897" height="66" alt="image" src="https://github.com/user-attachments/assets/26f84e99-f0dc-4613-9890-56a2cd89f025" /># Marketing-Analytics-Project
+## Marketing-Analytics-Project
 
 ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to you to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.
 
+## Key Points:
+  * Reduced Customer Engagement: The number of customer interactions and engagement with the site and marketing content has declined.
+  * Decreased Conversion Rates: Fewer site visitors are converting into paying customers.
+  * High Marketing Expenses: Significant investments in marketing campaigns are not yielding expected returns.
+  * Need for Customer Feedback Analysis: Understanding customer opinions about products and services is crucial for improving engagement and conversions.
+    
+**Tools I’ll Use:** SQL, Python, Power BI 
+
+## Objectives
+Identify why visitors are not converting into customers
+Discover what type of marketing content drives engagement
+Analyze customer feedback to uncover pain points
+
+This project will focus on turning raw data into actionable insights that businesses can use to improve performance.
